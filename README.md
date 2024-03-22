@@ -2,6 +2,10 @@
    React - CineTurkey Coming Soon
 </h1>
 
+<h2>
+📷 Screenshots
+</h2>
+
 <p align="center">
   <img src="https://github.com/ozkannbuyuk/react-cineturkey-coming-soon/assets/111967202/ea365e90-76e0-4644-90ac-ccd44b73469b" width="400" />
   <img src="https://github.com/ozkannbuyuk/react-cineturkey-coming-soon/assets/111967202/f3607aac-d1d8-49ae-adc4-38e332e61287" width="400" />
